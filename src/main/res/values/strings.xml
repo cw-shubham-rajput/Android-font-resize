@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Font_resize</string>
+    <string name="action_settings">Settings</string>
+    <string name="heading">New Ford Mustang</string>
+    <string name="body">
+        <p>\t\t\t\t\t\t If you ever want to not feel special in a Ford Mustang convertible, drive one in Hollywood. That is where we tested this bangin’ yellow 2015 Mustang GT ragtop. Alas, that’s also where many other Americans are testing Mustang convertibles of their own. Or more accurately, of Hertz’s own. Indeed, as eye-searingly yellow as ours was, we still felt like just one of the crowd, what with Mustangs as common as Jack Sparrow impersonators in front of the Chinese Theatre. And even with the “5.0” fender badges, GT buckle on the rear fascia, and the body-color diffuser nestled between its twin exhaust pipes, no one notices a Mustang GT convertible among the billions of non-GT rental Mustangs swarming Hollywood’s famously glittering boulevards and tourist attractions.</p>
+
+<p>\n\n \t\t\t\t\t\t Of course, there’s an audible difference. The GT’s baritone rumble—particularly savory with the top down—is enough to justify the costs to purchase and fuel the GT over and above V-6 and EcoBoost models. There’s a performance story to tell, too, which is the whole reason we strapped our equipment to the car in this particular configuration. The skinny: It’s pretty quick.</p>"
+    </string>
+    <string name="sharedkey">cteapicteapictea</string>
+</resources>
